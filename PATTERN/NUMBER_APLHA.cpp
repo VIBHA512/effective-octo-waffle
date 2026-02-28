@@ -1,4 +1,4 @@
-/*
+/* Alpha-numeric half pyramid
 1 
 A B
 1 2 3
