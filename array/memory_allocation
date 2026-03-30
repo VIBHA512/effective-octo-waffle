@@ -17,3 +17,8 @@ int main(){
         cout << arr[i] << " ";}
 
 }
+
+// output
+1 3 5
+9 3 5 
+arrays are pass by reference 
